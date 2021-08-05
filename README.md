@@ -29,7 +29,9 @@
 
 <hr>
 
-<img src="./svg/learn.svg">
+<div align="center">
+    <img src="./svg/learn.svg">
+</div>
 
 <!-- ABOUT MY SKILLS -->
 <h2>My skills 💻</h2>
