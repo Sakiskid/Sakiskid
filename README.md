@@ -1,20 +1,37 @@
-<h3 align="center">
-  <!-- Hey! I'm Tyler Smith - this is my profile -->
-  <img src="./svg/hey.svg">
-  <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width="28">
+<h3 float="left" align="center">
+    <!-- Hey! I'm Tyler Smith - this is my profile  -->
+    <img src="./svg/heyheysvg.svg" width="500">
+    <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width="28">
 </h3>
 
-<h3>
-    <!-- https://maketext.io/ -->
-    <!-- <img src="./svg/h1.svg"> -->
-    <img src="./svg/h1_2.svg">
-</h3>
 <p align="center">
-    i LOVE creating with <a src="https://off-your-chest.herokuapp.com/">community-driven applications</a> and getting people interacting with eachother online. i'm also a mega-nerd for physics-based video games and - apparently - hyphons.
+  <a href="https://github.com/sakiskid">
+    <img alt="follow" title="Follow on GitHub" src="https://img.shields.io/github/followers/Sakiskid?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
+    <img src="https://img.shields.io/badge/-gray?style=for-the-badge&logo=linkedin&labelColor=gray&label=LinkedIn">
 </p>
-<details>
-    <summary>💫 <b>Click here</b> to learn more about my skills and what I like to make 🤗</summary>
+
+<h3 align="center">
+    When MERN Stack meets C# Game Development
+</h3>
+
+<p align="center">
+    I LOVE creating <a src="https://off-your-chest.herokuapp.com/">community-driven applications</a> and getting people interacting with eachother online. I'm also a mega-nerd for physics-based video games! 
+</p>
+
+<h2 align="center">
+    <img src="https://media.tenor.com/images/2d3e701f194c6b71160183da8dbb49e0/tenor.gif" width="25">
+    <a href="https://sakiskid.github.io/tyler-smith-portfolio/">Visit my portfolio for a list of my projects!</a>
+    <img src="https://media.tenor.com/images/2d3e701f194c6b71160183da8dbb49e0/tenor.gif" width="25">
+</h2>
+
+<p align="center">
+    I am currently working with a team of 3 as lead developer on a <i>"fast paced gorey-fps-roguelike where consuming life essence from arena enemies upgrades your physical mutations for a huge amount of bloody synergies"</i>. It is in closed testing right now, but stay tuned!!
+</p>
+
+<!-- ABOUT MY SKILLS -->
+<details><summary><img src="https://media.tenor.com/images/5b2a9f5413a03126746dd46e1372545c/tenor.gif" width="55"> <b>Click here to learn more about my skills and what I like to make 🤗</b></summary>
     <br>
+    <h2>My skills</h2>
     <p>
         In <b>Full-Stack Web Development</b> I have deployed and lead several team projects using Scrum methodology and various Project Management tools. I have familiarity with a few databases (mongo, sql, postgres) and am pretty confident in my back-end know how -- but I really love front end development and React.
     </p>
@@ -25,44 +42,16 @@
 
 <br>
 
-<p align="center">
-    I am currently working with a team of 3 as lead developer on a <i>"fast paced gorey-fps-roguelike where consuming life essence from arena enemies upgrades your physical mutations for a huge amount of bloody synergies"</i>. It is in closed testing right now, but stay tuned!!
-</p>
-<!-- WHAT IVE WORKED ON -->
-<details>
-    <summary>💫 <b>Click here</b> to learn more about what I've worked on 💪</summary>
+<details><summary><img src="https://media.tenor.com/images/5b2a9f5413a03126746dd46e1372545c/tenor.gif" width="55"> <b>Click here to visit some of my favorite code architecture resources 🎁</b></summary>
     <br>
-    <a src="https://sakiskid.github.io/tyler-smith-portfolio/">Tyler Smith</a> - My Portfolio
+    <a href="https://refactoring.guru/">Refactoring.guru</a> - I use this all the time for patterns I need help understanding. Contains the GoF's patterns explained and examples of them for lots of languages, and contains common code smells to avoid.
     <br>
-    <a src="https://www.eltconstructiontx.com">ELT Construction</a> - Website made for a client
+    <br>
+    <a href="https://gameprogrammingpatterns.com/">Game Programming Patterns</a> - Rob Nystrom's FREE(😱) book about game programming patterns. Tweaks a lot of the GoF's patterns for game development.
 </details>
 
 <br>
 
-<h3>
-    I'm a nerd for code architecture 😤
-</h3>
-<p>
-
-</p>
-<details>
-    <summary>💫 <b>Click here</b> to visit some of my favorite code architecture resources</summary>
-    <a src="https://refactoring.guru/">Refactoring.guru</a> - I use this all the time for patterns I need help understanding. Contains the GoF's patterns explained and examples of them for lots of languages, and contains common code smells to avoid.
-    <br>
-    <a src="https://gameprogrammingpatterns.com/">Game Programming Patterns</a> - Rob Nystrom's FREE(😱) book about game programming patterns. Tweaks a lot of the GoF's patterns for game development.
-</details>
-
-<br>
-
-<h3>
-    💬I love Front-End Web and C#, but I do other things too
-</h3>
-
-<br>
-
-<h3>
-    Get In Touch
-</h3>
 
 
 
@@ -76,14 +65,6 @@
 <!-- Badges template - https://github.com/badges/shields -->
 <!-- YouTube Stats - https://github.com/DenverCoder1/github-readme-youtube-stats -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
-<p align="center">
-  <a href="https://github.com/sakiskid">
-    <img alt="follow" title="Follow on GitHub" src="https://img.shields.io/github/followers/Sakiskid?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
-    <img src="https://img.shields.io/badge/-gray?style=for-the-badge&logo=linkedin&labelColor=gray&label=LinkedIn">
-</p>
 
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Sakiskid&show-avatar=false&branding=false&width=240&">
 
-<details>
-
-</details>
+<!-- <img align="center" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Sakiskid&show-avatar=false&branding=false&width=240&"> -->
