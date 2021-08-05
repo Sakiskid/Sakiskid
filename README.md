@@ -37,6 +37,8 @@ I am currently working with a team of 3 as lead developer on a <i>"fast paced go
 
 <hr>
 
+<br>
+
 <div align="center">
     <img src="./svg/learn.svg">
 </div>
