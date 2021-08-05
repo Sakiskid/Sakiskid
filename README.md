@@ -6,6 +6,7 @@
 
 <h3 float="left" align="center">
     <img src="./svg/intro.svg" width="500">
+    <br>
     <a href="https://github.com/sakiskid"><img alt="follow" title="Follow on GitHub" src="https://img.shields.io/github/followers/Sakiskid?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
     <a href="https://www.linkedin.com/in/tyler-smith-atx/"> <img alt="linked in" title="Visit Linked In" src="https://img.shields.io/badge/-gray?style=for-the-badge&logo=linkedin&labelColor=gray&label=LinkedIn"></a>
 </h3>
@@ -16,7 +17,7 @@
     When MERN Stack meets C# Game Development
 </h2>
 
-[![Tyler Smith's Portfolio](./svg/projects.svg)](https://sakiskid.github.io/tyler-smith-portfolio/)<small>☝ that's an svg! Check it out here: </small>
+[![Tyler Smith's Portfolio](./svg/projects.svg)](https://sakiskid.github.io/tyler-smith-portfolio/)<br><small>☝ that's an svg! Check it out here: </small>
 
 <p align="center">
     I LOVE creating <a src="https://off-your-chest.herokuapp.com/">community-driven applications</a> and getting people interacting with eachother online. I'm also a mega-nerd for physics-based video games! 
@@ -31,16 +32,13 @@
 <img src="./svg/learn.svg">
 
 <!-- ABOUT MY SKILLS -->
-<details><summary><img src="https://media.tenor.com/images/5b2a9f5413a03126746dd46e1372545c/tenor.gif" width="55"> <b>Click here to learn more about my skills and what I like to make 🤗</b></summary>
-    <br>
-    <h2>My skills</h2>
-    <p>
-        In <b>Full-Stack Web Development</b> I have deployed and lead several team projects using Scrum methodology and various Project Management tools. I have familiarity with a few databases (mongo, sql, postgres) and am pretty confident in my back-end know how -- but I really love front end development and React.
-    </p>
-    <p>
-        In <b>C# Unity & Game Development</b> I have worked on two medium physics based games, as well as a dozen or so smaller personal projects. I have also developed private proprietary software to track user intention based off of various human inputs.
-    </p>
-</details>
+<h2>My skills 💻</h2>
+<p>
+    In <b>Full-Stack Web Development</b> I have deployed and lead several team projects using Scrum methodology and various Project Management tools. I have familiarity with a few databases (mongo, sql, postgres) and am pretty confident in my back-end know how -- but I really love front end development and React.
+</p>
+<p>
+    In <b>C# Unity & Game Development</b> I have worked on two medium physics based games, as well as a dozen or so smaller personal projects. I have also developed private proprietary software to track user intention based off of various human inputs.
+</p>
 
 <br>
 
