@@ -13,11 +13,11 @@
 
 <hr>
 
+[![Tyler Smith's Portfolio](./svg/projects.svg)](https://sakiskid.github.io/tyler-smith-portfolio/)<br><small>☝ that's an svg! Check it out here: </small>
+
 <h2 align="center">
     When MERN Stack meets C# Game Development
 </h2>
-
-[![Tyler Smith's Portfolio](./svg/projects.svg)](https://sakiskid.github.io/tyler-smith-portfolio/)<br><small>☝ that's an svg! Check it out here: </small>
 
 <p align="center">
     I LOVE creating [community-driven applications](https://off-your-chest.herokuapp.com/) and getting people interacting with eachother online. I'm also a mega-nerd for physics-based video games! 
@@ -34,7 +34,11 @@
 </div>
 
 <!-- ABOUT MY SKILLS -->
-<h2>My skills 💻</h2>
+<h2>
+    <img src="./svg/sparkles.gif" width="25">
+        My skills 
+    <img src="./svg/sparkles.gif" width="25">
+</h2>
 <p>
     In <b>Full-Stack Web Development</b> I have deployed and lead several team projects using Scrum methodology and various Project Management tools. I have familiarity with a few databases (mongo, sql, postgres) and am pretty confident in my back-end know how -- but I really love front end development and React.
 </p>
@@ -44,7 +48,7 @@
 
 <br>
 
-<details><summary><img src="https://media.tenor.com/images/5b2a9f5413a03126746dd46e1372545c/tenor.gif" width="55"> <b>Click here to visit some of my favorite code architecture resources 🎁</b></summary>
+<details><summary><b>Click here to visit some of my favorite code architecture resources 🎁</b></summary>
     <br>
     <a href="https://refactoring.guru/">Refactoring.guru</a> - I use this all the time for patterns I need help understanding. Contains the GoF's patterns explained and examples of them for lots of languages, and contains common code smells to avoid.
     <br>
