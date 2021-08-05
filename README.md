@@ -88,8 +88,9 @@
 	</foreignObject>
 </svg>
 
+<img src="/svg/test.svg">
 
-<!-- SVT TESTING //////////////////////////////////////////////////////// -->
+<!-- SVg TESTING //////////////////////////////////////////////////////// -->
 
 <h3 float="left" align="center">
     <!-- Hey! I'm Tyler Smith - this is my profile  -->
