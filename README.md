@@ -5,14 +5,15 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/sakiskid">
-    <img alt="follow" title="Follow on GitHub" src="https://img.shields.io/github/followers/Sakiskid?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
-    <img src="https://img.shields.io/badge/-gray?style=for-the-badge&logo=linkedin&labelColor=gray&label=LinkedIn">
+    <a href="https://github.com/sakiskid"><img alt="follow" title="Follow on GitHub" src="https://img.shields.io/github/followers/Sakiskid?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
+    <a href="https://www.linkedin.com/in/tyler-smith-atx/"> <img alt="linked in" title="Visit Linked In" src="https://img.shields.io/badge/-gray?style=for-the-badge&logo=linkedin&labelColor=gray&label=LinkedIn">
 </p>
 
-<h3 align="center">
+<hr>
+
+<h2 align="center">
     When MERN Stack meets C# Game Development
-</h3>
+</h2>
 
 <p align="center">
     I LOVE creating <a src="https://off-your-chest.herokuapp.com/">community-driven applications</a> and getting people interacting with eachother online. I'm also a mega-nerd for physics-based video games! 
@@ -27,6 +28,8 @@
 <p align="center">
     I am currently working with a team of 3 as lead developer on a <i>"fast paced gorey-fps-roguelike where consuming life essence from arena enemies upgrades your physical mutations for a huge amount of bloody synergies"</i>. It is in closed testing right now, but stay tuned!!
 </p>
+
+<hr>
 
 <!-- ABOUT MY SKILLS -->
 <details><summary><img src="https://media.tenor.com/images/5b2a9f5413a03126746dd46e1372545c/tenor.gif" width="55"> <b>Click here to learn more about my skills and what I like to make 🤗</b></summary>
