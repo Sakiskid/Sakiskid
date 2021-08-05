@@ -20,7 +20,7 @@
 [![Tyler Smith's Portfolio](./svg/projects.svg)](https://sakiskid.github.io/tyler-smith-portfolio/)<br><small>☝ that's an svg! Check it out here: </small>
 
 <p align="center">
-    I LOVE creating <a src="https://off-your-chest.herokuapp.com/">community-driven applications</a> and getting people interacting with eachother online. I'm also a mega-nerd for physics-based video games! 
+    I LOVE creating [community-driven applications](https://off-your-chest.herokuapp.com/) and getting people interacting with eachother online. I'm also a mega-nerd for physics-based video games! 
 </p>
 
 <p align="center">
