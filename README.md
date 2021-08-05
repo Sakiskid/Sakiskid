@@ -15,7 +15,8 @@
 
 <div align="center">
 
-[![Tyler Smith's Portfolio](./svg/projects.svg)](https://sakiskid.github.io/tyler-smith-portfolio/)<br><small>☝ that's an svg! Check it out here: </small>
+[![Tyler Smith's Portfolio](./svg/projects.svg)](https://sakiskid.github.io/tyler-smith-portfolio/)
+<br><small>☝ that's an svg! ![https://codepen.io/sakiskid-the-lessful/pen/PomyZMe](Check it out here). </small>
 
 </div>
 
@@ -24,7 +25,7 @@
 </h2>
 
 <p align="center">
-    I LOVE creating [community-driven applications](https://off-your-chest.herokuapp.com/) and getting people interacting with eachother online. I'm also a mega-nerd for physics-based video games! 
+    I LOVE creating ![community-driven applications](https://off-your-chest.herokuapp.com/) and getting people interacting with eachother online. I'm also a mega-nerd for physics-based video games! 
 </p>
 
 <p align="center">
