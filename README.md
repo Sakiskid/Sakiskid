@@ -5,11 +5,10 @@
 
 
 <h3 float="left" align="center">
-
-![Tyler Smith's Portfolio](./svg/intro.svg)
-
-<a href="https://github.com/sakiskid"><img alt="follow" title="Follow on GitHub" src="https://img.shields.io/github/followers/Sakiskid?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
-<a href="https://www.linkedin.com/in/tyler-smith-atx/"> <img alt="linked in" title="Visit Linked In" src="https://img.shields.io/badge/-gray?style=for-the-badge&logo=linkedin&labelColor=gray&label=LinkedIn"></a>
+    <img src="./svg/intro.svg" width="500">
+    <br>
+    <a href="https://github.com/sakiskid"><img alt="follow" title="Follow on GitHub" src="https://img.shields.io/github/followers/Sakiskid?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
+    <a href="https://www.linkedin.com/in/tyler-smith-atx/"> <img alt="linked in" title="Visit Linked In" src="https://img.shields.io/badge/-gray?style=for-the-badge&logo=linkedin&labelColor=gray&label=LinkedIn"></a>
 </h3>
 
 <hr>
