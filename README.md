@@ -11,19 +11,19 @@
 
 <hr>
 
-<h2 align="center">
+<h3 align="center" style="font-size: 3vw">
     When MERN Stack meets C# Game Development
-</h2>
+</h3>
 
 <p align="center">
     I LOVE creating <a src="https://off-your-chest.herokuapp.com/">community-driven applications</a> and getting people interacting with eachother online. I'm also a mega-nerd for physics-based video games! 
 </p>
 
-<h2 align="center">
+<h3 align="center" style="font-size: 3vw">
     <img src="https://media.tenor.com/images/2d3e701f194c6b71160183da8dbb49e0/tenor.gif" width="25">
     <a href="https://sakiskid.github.io/tyler-smith-portfolio/">Visit my portfolio for a list of my projects!</a>
     <img src="https://media.tenor.com/images/2d3e701f194c6b71160183da8dbb49e0/tenor.gif" width="25">
-</h2>
+</h3>
 
 <p align="center">
     I am currently working with a team of 3 as lead developer on a <i>"fast paced gorey-fps-roguelike where consuming life essence from arena enemies upgrades your physical mutations for a huge amount of bloody synergies"</i>. It is in closed testing right now, but stay tuned!!
@@ -32,7 +32,8 @@
 <hr>
 
 <!-- ABOUT MY SKILLS -->
-<details><summary><img src="https://media.tenor.com/images/5b2a9f5413a03126746dd46e1372545c/tenor.gif" width="55"> <b>Click here to learn more about my skills and what I like to make 🤗</b></summary>
+<details><summary><img src="https://media.tenor.com/images/5b2a9f5413a03126746dd46e1372545c/tenor.gif" width="55"> 
+<b style="font-size: 2vw">Click here to learn more about my skills and what I like to make 🤗</b></summary>
     <br>
     <h2>My skills</h2>
     <p>
@@ -45,7 +46,8 @@
 
 <br>
 
-<details><summary><img src="https://media.tenor.com/images/5b2a9f5413a03126746dd46e1372545c/tenor.gif" width="55"> <b>Click here to visit some of my favorite code architecture resources 🎁</b></summary>
+<details><summary><img src="https://media.tenor.com/images/5b2a9f5413a03126746dd46e1372545c/tenor.gif" width="55"> 
+<b style="font-size: 2vw">Click here to visit some of my favorite code architecture resources 🎁</b></summary>
     <br>
     <a href="https://refactoring.guru/">Refactoring.guru</a> - I use this all the time for patterns I need help understanding. Contains the GoF's patterns explained and examples of them for lots of languages, and contains common code smells to avoid.
     <br>
