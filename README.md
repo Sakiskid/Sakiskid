@@ -29,12 +29,6 @@ I LOVE creating [community-driven applications](https://off-your-chest.herokuapp
 
 </p>
 
-<p>
-
-I am currently working with a team of 3 as lead developer on a <i>"fast paced gorey-fps-roguelike where consuming life essence from arena enemies upgrades your physical mutations for a huge amount of bloody synergies"</i>. It is in closed testing right now, but stay tuned!!
-
-</p>
-
 <hr>
 
 <br>
