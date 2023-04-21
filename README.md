@@ -62,7 +62,7 @@ I LOVE creating [community-driven applications](https://off-your-chest.herokuapp
 
 <br>
 
-*Note: My Git contribution # has dropped since 2020 since I have switched to PlasticSCM for Game Development, and BitBucket for professional employment.*
+*Note: My Git contribution amount has lowered since 2020. This is due to a switch in version control platforms: PlasticSCM for Game Development, and BitBucket for professional employment.*
 
 
 
