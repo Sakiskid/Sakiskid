@@ -134,6 +134,12 @@
                     z-index: 1;
                     opacity: 20%;                    
                 }
+
+				h4 {
+					font-size: 25px;
+					margin: 0;
+					letter-spacing: 5px;
+				}
                 
 				h1 {
 					font-size: 40px;
@@ -152,7 +158,8 @@
 				p {
                     width: 100%;
                     letter-spacing: 5px;
-                    text-decoration: underline;
+					font-style: italic;
+                    /* text-decoration: underline; */
                     margin: 0;
                     padding-top: 10px;
 					font-size: 20px;
@@ -161,12 +168,15 @@
 				}
 			</style>
 			<div class="container">
+				<h4>
+                    9 YEARS OF
+                </h4>
                 <h1>
-                    My Project Gallery
+                    💠C#, WEB, AI💠
                 </h1>
-                <p>
-                    Visit My Portfolio
-                </p>
+				<p>
+					Multi-faceted AI-loving SWE
+				</p>
                 <div class="emoji-container">
                     <div class="emoji left">
                         <div class="rotate stagger-0">🏆</div>
