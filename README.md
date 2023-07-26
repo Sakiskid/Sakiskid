@@ -27,7 +27,7 @@
 I LOVE creating [community-driven applications](https://off-your-chest.herokuapp.com) and getting people interacting with eachother online. I'm also a mega-nerd for physics-based video games! I join both game jams and competitions (like Google Hash) regularly. Reach out so we can team up!
 
 I also have professional experience with Fullstack engineering, transformer model training and prompting, Salesforce development, architecting complex systems, deploying and monitoring large projects, software project management, and technology startups. I have led several teams in both software development and in the service industry. 
-
+ 
 If you are interested in working together on a project, please reach out to me at tylerdrew.work@gmail.com
 
 </p>
