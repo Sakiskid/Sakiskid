@@ -24,9 +24,11 @@
 
 <p>
 
-I LOVE creating [community-driven applications](https://off-your-chest.herokuapp.com) and getting people interacting with eachother online. I'm also a mega-nerd for physics-based video games!
+I LOVE creating [community-driven applications](https://off-your-chest.herokuapp.com) and getting people interacting with eachother online. I'm also a mega-nerd for physics-based video games! I join both game jams and competitions (like Google Hash) regularly. Reach out so we can team up!
 
-If you're here from my resume, then you know I have real-world experience with Salesforce development, project management, and jumping into projects to reverse years of technical debt.
+I also have professional experience with Fullstack engineering, transformer model training and prompting, Salesforce development, architecting complex systems, deploying and monitoring large projects, software project management, and technology startups. I have led several teams in both software development and in the service industry. 
+
+If you are interested in working together on a project, please reach out to me at tylerdrew.work@gmail.com
 
 </p>
 
@@ -46,19 +48,19 @@ If you're here from my resume, then you know I have real-world experience with S
 </h3>
 <!-- AI -->
 <p>
-    In <b>AI development and research</b>, I have been in development of an online web-based application that utilizes multiple artificial intelligences. The application uses OpenAI's GPT-4 API as well as several other transformer models that require a great deal of prompt engineering to achieve the desired result. Other transformer models in this project include but are not limited to image to text (create descriptions from image), image to image, and text to image.
+    In <b>AI development and research</b>, I am engineering an online web-based application that utilizes multiple artificial intelligences. The application uses OpenAI's GPT-4 API as well as several other transformer models that require a great deal of prompt engineering to achieve the desired result. Other transformer models in this project include but are not limited to image to text (create descriptions from image), image to image, and text to image.
 </p>
 <!-- Salesforce -->
 <p>
-    In <b>Salesforce</b> I have worked in a small to moderately sized (25 users) organization as the lead administrator and developer. I have confident skill in Apex as well as the Salesforce environment as a whole. I have also worked with several of the more popular apps on the App Exchange, including both Stripe and Chargent! My prized achievement here is creating a proprietary Stripe-Salesforce two way connector - it's more interesting than it sounds, I swear!
+    In <b>Salesforce</b> I have worked in a small to moderately sized (25 users) organization as the chief technologist and developer. I have confident skill in Apex as well as the Salesforce environment as a whole. I have also worked with several of the more popular apps on the App Exchange, including both Stripe and Chargent. My prized achievement in this role is creating a proprietary Stripe-Salesforce bi-directional connector - it's more interesting than it sounds, I swear!
 </p>
 <!-- Web Dev -->
 <p>
-    In <b>Full-Stack Web Development</b> I have deployed and lead several team projects using Scrum methodology and various Project Management tools. I have familiarity with a few databases (mongo, sql, postgres) and am pretty confident in my back-end know how -- but I really love front end development and React.
+    In <b>Full-Stack Web Development</b> I have deployed and lead several team projects using both scrum methodology and various project management tools. I have familiarity with a few databases (mongo, sql, postgres) and I'm confident in my back-end know how -- but I really love front end development and React.
 </p>
 <!-- C# -->
 <p>
-    In <b>C# Unity & Game Development</b> I have worked on two medium physics based games, as well as a dozen or so smaller personal projects. I have also developed private proprietary software to track user intention based off of various human inputs.
+    In <b>C# Unity & Game Development</b> I have worked on two medium physics based games, as well as around two dozen smaller personal projects. I have also developed private proprietary software utilizing UnityMLA to track user intention based off of various human inputs.
 </p>
 
 
